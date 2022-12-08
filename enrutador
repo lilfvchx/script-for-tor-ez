@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo "Veo que ha vuelto por aqui joven" | boxes -d diamonds -a hcvc
+sudo service tor start 
+clear
+echo "listo muchacho, ya tenes todo configurado, le dejo mi pato de la suerte SOLO PARA LA NAVEGACION"| boxes -d tux
+echo "ESTE SCRIPT ES SOLO para navegacion"
+echo "\n - \n - \n"
+echo "stay safe"
+proxychains firefox https://www.dnsleaktest.com/
+echo "Un gran poder conlleva una gran responsabilidad - espada de Democles" | boxes -d cc
+
+
+##Escrito con mucho amor uwu.
